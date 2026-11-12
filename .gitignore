@@ -5,7 +5,13 @@ __pycache__/
 *.db
 *.sqlite*
 data/
+data_*/
 data_large/
 reports/
+reports_*/
 final_state.csv
 .pytest_cache/
+powershell.cmd
+*.egg-info/
+.venv*/
+
